@@ -1,0 +1,5 @@
+zone "thiagofelizardo.com" {
+    type master;
+    file "/etc/bind/db.thiagofelizardo.com";
+};
+
